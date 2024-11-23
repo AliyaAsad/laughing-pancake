@@ -1,4 +1,3 @@
-This is my repository.
-
-THis is my line 2
-ABC 123
+Now i want to add changes
+why is the code like this
+echo "Aliya"
