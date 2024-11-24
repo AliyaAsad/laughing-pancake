@@ -1,4 +1,4 @@
-#!/bib/bash
+#!/bin/bash
 
 echo "Hello, World"
 echo "I have no idea whats going on"
